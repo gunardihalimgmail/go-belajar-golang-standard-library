@@ -1,8 +1,10 @@
 package main
 
 import (
-	"belajar-golang-standard-library/utils"
+	// "belajar-golang-standard-library/utils"
 	"fmt"
+
+	"github.com/gunardihalimgmail/go-belajar-golang-standard-library/utils"
 )
 
 func main() {
