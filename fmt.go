@@ -96,5 +96,6 @@ func main() {
 	fmt.Println("\n--------- Package File Manipulation (OS)")
 	utils.OsCreateFile()
 	fmt.Println("--------- ------")
+	fmt.Println("--------- ------")
 
 }
