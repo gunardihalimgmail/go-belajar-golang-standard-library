@@ -98,3 +98,8 @@ func main() {
 	fmt.Println("--------- ------")
 
 }
+
+// * Push Ke Tag (Force)
+// git tag -d v1.0.0 (menghapus tag)
+// git tag -a v1.0.0 -m "Tag" (buat ulang tag ke commit baru)
+// git push origin -f v1.0.0
